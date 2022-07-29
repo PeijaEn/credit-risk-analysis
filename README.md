@@ -10,7 +10,26 @@ The purpose of this analysis was to create multiple models to preform different 
 - low-risk: 68470
 - high-risk: 347
 
-### Results
+### Result
+
+
+Naive Random Oversampling
+![image]()
+
+SMOTE Oversampling
+![image]()
+
+Undersampling
+![image]()
+
+Combination Over-Under Sampling
+![image]()
+
+Balanced Random Forest Cassifier
+![image]()
+
+Easy Ensemble AdaBoost Classifier
+![image]()
 
 
 
