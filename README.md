@@ -12,26 +12,35 @@ The purpose of this analysis was to create multiple models to preform different 
 
 ### Result
 
-
 Naive Random Oversampling
 ![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Native%20Random%20Oversampling.png?raw=true)
+
+Balanced Accuracy: 65%
 
 SMOTE Oversampling
 ![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Smote%20oversampling.png?raw=true)
 
+Balanced Accuracy: 64%
+
 Undersampling
 ![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Undersampling.png?raw=true)
+
+Balanced Accuracy: 
 
 Combination Over-Under Sampling
 ![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Combination%20Over-Under%20Sampling.png?raw=true)
 
+Balanced Accuracy: 
+
 Balanced Random Forest Cassifier
 ![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/balanced%20random%20forest%20classifier.png?raw=true)
+
+Balanced Accuracy: 79%
 
 Easy Ensemble AdaBoost Classifier
 ![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Easy%20Ensemble%20Adaboost%20Classifier.png?raw=true)
 
-
+Balanced Accuracy: 93%
 
 ### Summary
 
