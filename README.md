@@ -14,22 +14,22 @@ The purpose of this analysis was to create multiple models to preform different 
 
 
 Naive Random Oversampling
-![image]()
+![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Native%20Random%20Oversampling.png?raw=true)
 
 SMOTE Oversampling
-![image]()
+![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Smote%20oversampling.png?raw=true)
 
 Undersampling
-![image]()
+![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Undersampling.png?raw=true)
 
 Combination Over-Under Sampling
-![image]()
+![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Combination%20Over-Under%20Sampling.png?raw=true)
 
 Balanced Random Forest Cassifier
-![image]()
+![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/balanced%20random%20forest%20classifier.png?raw=true)
 
 Easy Ensemble AdaBoost Classifier
-![image]()
+![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Easy%20Ensemble%20Adaboost%20Classifier.png?raw=true)
 
 
 
