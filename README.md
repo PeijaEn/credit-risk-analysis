@@ -15,22 +15,22 @@ The purpose of this analysis was to create multiple models to preform different 
 Naive Random Oversampling                 
 ![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Native%20Random%20Oversampling.png?raw=true)
 
-Balanced Accuracy: 65%                
+Balanced Accuracy: 66%                
 
 SMOTE Oversampling                       
 ![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Smote%20oversampling.png?raw=true)
 
-Balanced Accuracy: 64%                 
+Balanced Accuracy: 63%                 
 
 Undersampling                              
 ![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Undersampling.png?raw=true)
 
-Balanced Accuracy:                                
+Balanced Accuracy: 63%                               
 
 Combination Over-Under Sampling                      
 ![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/Combination%20Over-Under%20Sampling.png?raw=true)
 
-Balanced Accuracy:                     
+Balanced Accuracy: 52%                    
 
 Balanced Random Forest Cassifier                           
 ![image](https://github.com/PeijaEn/credit-risk-analysis/blob/main/credit-risk-analysis/images/balanced%20random%20forest%20classifier.png?raw=true)
@@ -44,4 +44,4 @@ Balanced Accuracy: 93%
 
 ### Summary
 
-The Easy Ensemble AdaBoost Classifier had the highest overall accuracy out of all my models. This may have been due to the data being so unbalance, you can see this within its F-score for high risk prediciton being 0.16 only, nowhere near .9. I would not advise these models to be used in actual analysis but if I was forced to choose one it would be the Easy Ensemble AdaBoost Classifier.
+The Easy Ensemble AdaBoost Classifier had the highest balanced accuracy out of all my models. This may have been due to the data being so unbalance, you can see this within its F-score for high risk prediciton being 0.16 only, nowhere near .9. I would not advise these models to be used in actual analysis but if I was forced to choose one it would be the Easy Ensemble AdaBoost Classifier.
