@@ -5,7 +5,10 @@
 
 ### Overview of the Loan Prediction Risk Analysis
 
+The purpose of this analysis was to create multiple models to preform different types of machine learning. Out of the data provided, I was given a very unbalanced set:
 
+- low-risk: 68470
+- high-risk: 347
 
 ### Results
 
